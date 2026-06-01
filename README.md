@@ -17,7 +17,7 @@ Please enjoy my curated collection of projects below from my Master's program as
 5. [Data Preparation from Three Sources: API, Web Scrapping, Excel](https://github.com/SMcFarland95/Portfolio/tree/main/Data%20Preparation%20from%20Three%20Sources%20(API%2C%20Web%20Scrapping%2C%20Excel))
 6. [Data Presentation in an Infographic Medium Using R](https://github.com/SMcFarland95/Portfolio/tree/main/Data%20Presentation%20in%20an%20Infographic%20Medium%20Using%20R)
 7. [Data Presentation Using PPT, Infographic, and Instagram Reel Mediums](https://github.com/SMcFarland95/Portfolio/tree/main/Data%20Presentation%20Using%20PPT%2C%20Infographic%2C%20and%20Instagram%20Reel%20Mediums)
-8. Exploratory Data Analysis of U.S. Honey Production
+8. [Exploratory Data Analysis of U.S. Honey Production](https://github.com/SMcFarland95/Portfolio/tree/main/Exploratory%20Data%20Analysis%20of%20U.S.%20Honey%20Production)
 9. Food security and Sustainable Ag Programs Statistical Analysis Using R
 10. [Weather API Program](https://github.com/SMcFarland95/Portfolio/tree/main/Weather%20API%20Program)
 
