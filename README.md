@@ -15,6 +15,8 @@ Please enjoy my curated collection of projects below from my Master's program as
 ### Machine Learning:
 
 * [Coffee Quality Prediction via Binary Classification](https://github.com/SMcFarland95/Portfolio/tree/main/Coffee%20Bean%20Quality%20Prediction%20with%20Binary%20Classification)
+Built a binary classifier to help coffee suppliers predict whether imported specialty coffee would be “premium/excellent” vs. “very good.” Trained on the Coffee Quality Institute's review dataset using feature variables such as species, variety, origin country, altitude, processing method. Addressed class imbalance with SMOTE. Trained and evaluated logistic regression, random forest, and decision tree models via accuracy, precision, recall, F1, confusion matrix, and ROC curve.
+
 * [Crop Yield Prediction with Regression Modeling](https://github.com/SMcFarland95/Portfolio/tree/main/Crop%20Yield%20Prediction%20with%20Regression%20Modeling)
 * [Powdery Mildew Identification with Image Classification](https://github.com/SMcFarland95/Portfolio/tree/main/Powdery%20Mildew%20Identification%20with%20Image%20Classification)
 * [Time Series Modeling with Tree Dendrometer Data](https://github.com/SMcFarland95/Portfolio/tree/main/Time%20Series%20Modeling%20with%20Tree%20Dendrometer%20Data)
