@@ -18,7 +18,7 @@ Please enjoy my curated collection of projects below from my Master's program as
 * [Crop Yield Prediction with Regression Modeling](https://github.com/SMcFarland95/Portfolio/tree/main/Crop%20Yield%20Prediction%20with%20Regression%20Modeling)
 * [Powdery Mildew Identification with Image Classification](https://github.com/SMcFarland95/Portfolio/tree/main/Powdery%20Mildew%20Identification%20with%20Image%20Classification)
 * [Time Series Modeling with Tree Dendrometer Data](https://github.com/SMcFarland95/Portfolio/tree/main/Time%20Series%20Modeling%20with%20Tree%20Dendrometer%20Data)
-
+----------------------------------------------------------------------
 ### Data Analysis and Visualization:
 #### Python Projects
 * [Data Preparation from Three Sources: API, Web Scrapping, Excel](https://github.com/SMcFarland95/Portfolio/tree/main/Data%20Preparation%20from%20Three%20Sources%20(API%2C%20Web%20Scrapping%2C%20Excel))
@@ -26,10 +26,10 @@ Please enjoy my curated collection of projects below from my Master's program as
 * [Exploratory Data Analysis of U.S. Honey Production](https://github.com/SMcFarland95/Portfolio/tree/main/Exploratory%20Data%20Analysis%20of%20U.S.%20Honey%20Production)
 
 #### R Projects
-* [Food security and Sustainable Ag Programs Statistical Analysis Using R](https://github.com/SMcFarland95/Portfolio/tree/main/Food%20Security%20and%20Sustainable%20Ag%20Programs%20Statistical%20Analysis%20Using%20R)
-* [Data Presentation in an Infographic Medium Using R](https://github.com/SMcFarland95/Portfolio/tree/main/Data%20Presentation%20in%20an%20Infographic%20Medium%20Using%20R)
+* [Food security and Sustainable Ag Programs Statistical Analysis](https://github.com/SMcFarland95/Portfolio/tree/main/Food%20Security%20and%20Sustainable%20Ag%20Programs%20Statistical%20Analysis%20Using%20R)
+* [Data Presentation in an Infographic Medium](https://github.com/SMcFarland95/Portfolio/tree/main/Data%20Presentation%20in%20an%20Infographic%20Medium%20Using%20R)
 
-
+------------------------------------------------------------------------
 ### Other:
 * [Weather API Program](https://github.com/SMcFarland95/Portfolio/tree/main/Weather%20API%20Program)
 
