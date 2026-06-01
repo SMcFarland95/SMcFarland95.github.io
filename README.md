@@ -1,5 +1,6 @@
 # Shannon McFarland
 <hr style="border: 1px grey">
+
 ### ***Senior Plant Sciences Associate***
 
 I am a recent Data Science Master's graduate from Bellevue University. I also have an undergraduate degree in biology/ecology from Western Connecticut State University. I am very passionate about agriculture and the environment and currently work fulltime as a horticulturist. 
@@ -10,6 +11,7 @@ Please enjoy my curated collection of projects below from my Master's program as
 
 ## Work/Projects
 <hr style="border: 1px grey">
+
 1. [Powdery Mildew Identification with Image Classification](https://github.com/SMcFarland95/Portfolio/tree/main/Powdery%20Mildew%20Identification%20with%20Image%20Classification)
 2. [Time Series Modeling with Tree Dendrometer Data](https://github.com/SMcFarland95/Portfolio/tree/main/Time%20Series%20Modeling%20with%20Tree%20Dendrometer%20Data)
 3. [Crop Yield Prediction with Regression Modeling](https://github.com/SMcFarland95/Portfolio/tree/main/Crop%20Yield%20Prediction%20with%20Regression%20Modeling)
@@ -18,7 +20,7 @@ Please enjoy my curated collection of projects below from my Master's program as
 6. [Data Presentation in an Infographic Medium Using R](https://github.com/SMcFarland95/Portfolio/tree/main/Data%20Presentation%20in%20an%20Infographic%20Medium%20Using%20R)
 7. [Data Presentation Using PPT, Infographic, and Instagram Reel Mediums](https://github.com/SMcFarland95/Portfolio/tree/main/Data%20Presentation%20Using%20PPT%2C%20Infographic%2C%20and%20Instagram%20Reel%20Mediums)
 8. [Exploratory Data Analysis of U.S. Honey Production](https://github.com/SMcFarland95/Portfolio/tree/main/Exploratory%20Data%20Analysis%20of%20U.S.%20Honey%20Production)
-9. Food security and Sustainable Ag Programs Statistical Analysis Using R
+9. [Food security and Sustainable Ag Programs Statistical Analysis Using R](https://github.com/SMcFarland95/Portfolio/tree/main/Food%20Security%20and%20Sustainable%20Ag%20Programs%20Statistical%20Analysis%20Using%20R)
 10. [Weather API Program](https://github.com/SMcFarland95/Portfolio/tree/main/Weather%20API%20Program)
 
 ## Contact Me:
