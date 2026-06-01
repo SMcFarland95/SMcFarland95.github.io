@@ -50,9 +50,10 @@ Created an infographic to inform the Chicago general public about the rise in ca
 * [Weather API Program](https://github.com/SMcFarland95/Portfolio/tree/main/Weather%20API%20Program) :
 While a simpler project, demonstrates the ability to connect to an API and pull real-time information. The program works by asking the user to enter in a zip code or city they would like to know the current weather, which is then used to make a pull request from the Geocoding API for the location’s latitude and longitude coordinates. The coordinates are then used to request information about the location’s current weather from the Current Weather API. The program also demonstrates basic coding skills such as the utilization of “for loops” and “if else” statements. 
 
-### Contact Info:
+
 <hr style="border: 1px grey">
 
+### Contact Info:
 **Email:** smcfarland95@gmail.com
 
 
