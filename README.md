@@ -9,11 +9,18 @@ With the completion of my Data Science Master's program, I want to pursue a care
 Please enjoy my curated collection of projects below from my Master's program as many of them are connected to my interests in agriculture and the environment.
 
 ## Work/Projects
-1. [Powdery Mildew Identification with Image Classification](https://github.com/SMcFarland95/Portfolio/tree/main/Powdery%20Mildew%20Identification%20with%20Image%20Classification)
+<hr style="border: 1px grey">
+1. [Powdery Mildew Identification with Image Classification] (https://github.com/SMcFarland95/Portfolio/tree/main/Powdery%20Mildew%20Identification%20with%20Image%20Classification)
 2. [Time Series Modeling with Tree Dendrometer Data](https://github.com/SMcFarland95/Portfolio/tree/main/Time%20Series%20Modeling%20with%20Tree%20Dendrometer%20Data)
 3. [Crop Yield Prediction with Regression Modeling](https://github.com/SMcFarland95/Portfolio/tree/main/Crop%20Yield%20Prediction%20with%20Regression%20Modeling)
 4. [Coffee Quality Prediction via Binary Classification](https://github.com/SMcFarland95/Portfolio/tree/main/Coffee%20Bean%20Quality%20Prediction%20with%20Binary%20Classification)
-5. [Weather API Program](https://github.com/SMcFarland95/Portfolio/tree/main/Weather%20API%20Program)
+5. Data Preparation from Three Sources (API, Web Scrapping, Excel)
+6. Data Presentation in an Infographic Medium Using R
+7. Data Presentation Using PPT, Infographic, and Instagram Reel Mediums
+8. Exploratory Data Analysis of U.S. Honey Production
+9. Food security and Sustainable Ag Programs Statistical Analysis Using R
+10. [Weather API Program](https://github.com/SMcFarland95/Portfolio/tree/main/Weather%20API%20Program)
 
 ## Contact Me:
+<hr style="border: 1px grey">
 smcfarland95@gmail.com
