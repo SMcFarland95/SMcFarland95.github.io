@@ -8,5 +8,7 @@ With the completion of my Data Science Master's program, I want to pursue a care
 Please enjoy my curated collection of projects below from my Master's program as many of them are connected to my interests in agriculture and the environment.
 
 ## Work/Projects
-1. [Crop Yield Prediction with Regression Modeling](https://github.com/SMcFarland95/Portfolio/tree/main/Crop%20Yield%20Prediction%20with%20Regression%20Modeling)
-2. [Coffee Quality Prediction via Binary Classification](https://github.com/SMcFarland95/Portfolio/tree/main/Coffee%20Bean%20Quality%20Prediction%20with%20Binary%20Classification)
+1.
+2. [Time Series Modeling with Tree Dendrometer Data](https://github.com/SMcFarland95/Portfolio/tree/main/Time%20Series%20Modeling%20with%20Tree%20Dendrometer%20Data)
+3. [Crop Yield Prediction with Regression Modeling](https://github.com/SMcFarland95/Portfolio/tree/main/Crop%20Yield%20Prediction%20with%20Regression%20Modeling)
+4. [Coffee Quality Prediction via Binary Classification](https://github.com/SMcFarland95/Portfolio/tree/main/Coffee%20Bean%20Quality%20Prediction%20with%20Binary%20Classification)
