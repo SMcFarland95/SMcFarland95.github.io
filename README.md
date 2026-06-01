@@ -1,5 +1,5 @@
 # Shannon McFarland
-## ***Senior Plant Sciences Associate***
+### ***Senior Plant Sciences Associate***
 
 I am a recent Data Science Master's graduate from Bellevue University. I also have an undergraduate degree in biology/ecology from Western Connecticut State University. I am very passionate about agriculture and the environment and currently work fulltime as a horticulturist. 
 
