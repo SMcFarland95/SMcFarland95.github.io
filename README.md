@@ -1,7 +1,9 @@
 # Shannon McFarland
-### Senior Plant Sciences Associate
+***Senior Plant Sciences Associate***
 
-I am a recent Data Science Master's graduate from Bellevue University. I also have an undergraduate degree in biology/ecology from Western Connecticut State University. I am very passionate about agriculture and the environment and currently work fulltime as a horticulturist. With the completion of my Data Science Master's program, I want to pursue a career that combines my previous knowledge and experiences in agriculture and ecology with data science.
+I am a recent Data Science Master's graduate from Bellevue University. I also have an undergraduate degree in biology/ecology from Western Connecticut State University. I am very passionate about agriculture and the environment and currently work fulltime as a horticulturist. 
+
+With the completion of my Data Science Master's program, I want to pursue a career that combines my previous knowledge and experiences in agriculture and ecology with data science.
 
 Please enjoy my curated collection of projects below from my Master's program as many of them are connected to my interests in agriculture and the environment.
 
